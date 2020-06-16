@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+*.user
+.ignore
+Thumbs.db
+Server.Secrets.php
+node_modules/
+/vendor/mustache/mustache/test
+/vendor/phpoffice/phpspreadsheet/docs
+/vendor/phpoffice/phpspreadsheet/samples
